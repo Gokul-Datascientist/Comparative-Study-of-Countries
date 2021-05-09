@@ -6,9 +6,7 @@ Primary Dataset – Insurance Sample Dataset
 
 Secondary Dataset – Global Financial Development Database
 
-Hint: (Use Data Blending with Relationships between Country Code, Country, and Year)
-
-Dashboard Description
+# Dashboard Description
 A geographic map showing countries field. Color the map based on Income column from the secondary dataset.
 
 Include a filter of income group to the dashboard
